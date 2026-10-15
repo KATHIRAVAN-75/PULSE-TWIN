@@ -1,0 +1,8 @@
+{
+  "id": "community-hub",
+  "name": "Community Learning Hub",
+  "type": "campus",
+  "expected_students": 350,
+  "linked_twins": ["town"],
+  "enabled_modules": ["energy", "classrooms", "learning_access"]
+}

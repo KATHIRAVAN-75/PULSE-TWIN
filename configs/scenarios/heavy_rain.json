@@ -1,0 +1,6 @@
+{
+  "id": "heavy-rain",
+  "name": "Heavy rainfall",
+  "illustrative": true,
+  "inputs": { "rainfall_mm": 145, "temperature_c": 30, "outage_hours": 1.5, "transport_delay_min": 48 }
+}

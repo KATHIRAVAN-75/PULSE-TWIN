@@ -1,0 +1,6 @@
+{
+  "id": "power-dip",
+  "name": "Power dip",
+  "illustrative": true,
+  "inputs": { "rainfall_mm": 30, "temperature_c": 34, "outage_hours": 5, "transport_delay_min": 25 }
+}

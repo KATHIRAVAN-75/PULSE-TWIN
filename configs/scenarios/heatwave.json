@@ -1,0 +1,6 @@
+{
+  "id": "heatwave",
+  "name": "Heatwave",
+  "illustrative": true,
+  "inputs": { "rainfall_mm": 20, "temperature_c": 41, "outage_hours": 2, "transport_delay_min": 20 }
+}

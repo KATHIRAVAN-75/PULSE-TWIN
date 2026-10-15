@@ -1,0 +1,8 @@
+{
+  "id": "town",
+  "name": "Coastal Town Twin",
+  "type": "town",
+  "expected_students": 0,
+  "linked_twins": ["campus"],
+  "enabled_modules": ["weather", "roads", "transit"]
+}

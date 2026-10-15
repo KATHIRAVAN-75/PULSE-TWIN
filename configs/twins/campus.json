@@ -1,0 +1,8 @@
+{
+  "id": "campus",
+  "name": "Riverside Campus Twin",
+  "type": "campus",
+  "expected_students": 1200,
+  "linked_twins": ["town"],
+  "enabled_modules": ["energy", "classrooms", "learning_access"]
+}
